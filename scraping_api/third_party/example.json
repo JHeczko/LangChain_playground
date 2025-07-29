@@ -1,0 +1,436 @@
+{
+  "success": true,
+  "credits_left": 100,
+  "rate_limit_left": 100,
+  "daily_rate_limit_left": 100,
+  "minute_rate_limit_left": 499,
+  "next_minute_rate_limit_reset": "2025-07-29T14:08:37.000Z",
+  "person": {
+    "publicIdentifier": "michal-jungiewicz",
+    "linkedInIdentifier": "ACoAAAr3iV0BYEyLjmOvRNPvtneCeQTc8kvyDrs",
+    "memberIdentifier": "183994717",
+    "linkedInUrl": "https://www.linkedin.com/in/michal-jungiewicz",
+    "firstName": "Michał",
+    "lastName": "Jungiewicz",
+    "headline": "Head of AI Innovation at Exadel | PhD in AI/NLP/ML | GenAI | LLMs | Natural Language Processing | Computer Vision | AI in Healthcare | Deep Learning",
+    "location": "Cracow, Cracow Metropolitan Area, Poland",
+    "summary": "I'm a Lead Data Scientist at Exadel with nearly a decade of experience in machine learning. I specialize in natural language processing and have recently expanded my expertise into computer vision and AI in healthcare. I've worked in or lead multiple GenAI (LLMs) projects. I hold a PhD in natural language processing and machine learning.\n\nI like all things data, building teams, getting to know new people, mentoring and teaching others 🙂\n\nI'm keen on learning new things and developing my skills 🧠",
+    "photoUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGvSY7qvR3oXw/profile-displayphoto-scale_100_100/B4EZfU8je.HIAc-/0/1751624337323?e=1756944000&v=beta&t=PpsEQMRnzZUBqXCdFP2ZSoJe560I_DsV7qVIvcU6fkU",
+    "backgroundUrl": "https://media.licdn.com/dms/image/v2/D4E16AQHp6iqyiPoWHA/profile-displaybackgroundimage-shrink_350_1400/B4EZf4wY0PHsAc-/0/1752225125644?e=1756944000&v=beta&t=1gzIbZeBhoGSxSPRopTjVIOt5dOYo5BMNmgP9IbxiY8",
+    "openToWork": false,
+    "premium": false,
+    "showVerificationBadge": false,
+    "creationDate": {
+      "month": 5,
+      "year": 2012
+    },
+    "followerCount": 1362,
+    "positions": {
+      "positionsCount": 9,
+      "positionHistory": [
+        {
+          "title": "Head of AI Innovation",
+          "companyName": "Exadel",
+          "description": "",
+          "startEndDate": {
+            "start": {
+              "month": 7,
+              "year": 2025
+            },
+            "end": null
+          },
+          "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQEyuAesmFwWPA/company-logo_400_400/company-logo_400_400/0/1704999546975/exadel_logo?e=1756944000&v=beta&t=Ztjj7C9UbbjPvSdAv6gyFa4t5JMQ2YsCqTHD-bIMJgg",
+          "linkedInUrl": "https://www.linkedin.com/company/27653/",
+          "linkedInId": "27653"
+        },
+        {
+          "title": "Lead Data Scientist",
+          "companyName": "Exadel",
+          "description": "A life science company:\n* PoC of a chatbot communicating with a proprietary API\n* Built a solution based on LLMs, mostly GPT-4\n* Lead a team of two Data Scientists and communicated with the client\n* Kept track of the latest research in the field of LLMs\n* Worked both hands-off and hands-on down to the code details\nTech stack: Python, GPT-4, LangChain, REST API\n\nAn education company:\n* Built a quick (around 2-month) PoC of a data dictionary for a relational database\n* Used LLMs on Amazon Bedrock, mostly Claude 2.1\n* Lead a team of two Data Scientists and a Database Engineer and lead the communication with the client\n* Got very positive feedback after the project\nTech stack: Python, SQL, Amazon Bedrock, Claude, LangChain, Faiss similarity search",
+          "startEndDate": {
+            "start": {
+              "month": 1,
+              "year": 2024
+            },
+            "end": {
+              "month": 6,
+              "year": 2025
+            }
+          },
+          "contractType": "Self-employed",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQEyuAesmFwWPA/company-logo_400_400/company-logo_400_400/0/1704999546975/exadel_logo?e=1756944000&v=beta&t=Ztjj7C9UbbjPvSdAv6gyFa4t5JMQ2YsCqTHD-bIMJgg",
+          "linkedInUrl": "https://www.linkedin.com/company/27653/",
+          "linkedInId": "27653"
+        },
+        {
+          "title": "Senior Data Scientist",
+          "companyName": "Exadel",
+          "description": "A life science company:\n* PoC of named entity recognition on lab protocols\n* Built a full MLOps pipeline on DataBricks: wrote code to process data and train machine learning models, set up tracking with MLFlow, configured LabelStudio for labeling\n* Used ChatGPT 4 to write code for the project - tested its limits in code generation context\n* Found a public data set that suited the needs of the client - reducing time and effort spent on data gathering and annotation\n* Partly managed the whole project - discussed the roadmap with the manager from the client’s side\nTech stack: Python, Hugging Face Transformers, spaCy, Optuna, DataBricks, MLFlow, LabelStudio, ChatGPT 4\n\nA healthtech company:\n* Built a PoC of a medical knowledge graph\n* Found a very comprehensive solution to the PoC\n* Wrote Python scripts to analyze the data\nTech stack: Python, Neo4j, Docker, Go, Git\n\nR&D:\n* Participated and lead brainstorming sessions concerning the usage of LLMs in multiple different projects (data extraction, chatbots, tool for generating SQL, etc)\n* Played a key role in publishing the first peer-reviewed paper of our team (computer vision for coronary angiography)\n* Designed and implementated deep models such as Inception and VGG neural networks and transfer learning using TensorFlow and Keras\n* Covid risk calculator - project in cooperation with medical doctors from a hospital (tabular data, XAI)\n* Participated in consulting activities for commercial clients (workshops)\n* Built a strong team\n* Lead mentoring for workmates\n* Lead lots of tech interviews (Data Scientist, Data Engineer, Python Engineer)\n* Presented at meetups, teaching, helping to develop our tech meetups community\n* Did technical mentoring at medical hackathon (Hack4Med)\nTech stack: Python, TensorFlow/Keras, PyTorch, OpenCV, Pillow, Scikit-Learn, XGBoost, Dash, InterpretML, pandas, MLflow, AWS, Docker, Git",
+          "startEndDate": {
+            "start": {
+              "month": 4,
+              "year": 2021
+            },
+            "end": {
+              "month": 1,
+              "year": 2024
+            }
+          },
+          "contractType": "Self-employed",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQEyuAesmFwWPA/company-logo_400_400/company-logo_400_400/0/1704999546975/exadel_logo?e=1756944000&v=beta&t=Ztjj7C9UbbjPvSdAv6gyFa4t5JMQ2YsCqTHD-bIMJgg",
+          "linkedInUrl": "https://www.linkedin.com/company/27653/",
+          "linkedInId": "27653"
+        },
+        {
+          "title": "Data Scientist",
+          "companyName": "ChallengeRocket.com",
+          "description": "Built a small team of ML experts. Lead the ML part of the project.\n\nTook part in building full ML pipeline: researching and designing ML methods, gathering data, feature engineering, data analysis, models training, deployment.\n\nProblems: recommendations, classification, clustering\nMethods: neural networks, kmeans, collaborative filtering\nTech stack: Python, Keras, Scikit-Learn, Jupyter, pandas, SQL, FastAPI, Docker",
+          "startEndDate": {
+            "start": {
+              "month": 11,
+              "year": 2019
+            },
+            "end": {
+              "month": 3,
+              "year": 2021
+            }
+          },
+          "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQFgenZuLWg_IQ/company-logo_400_400/company-logo_400_400/0/1631350248133?e=1756944000&v=beta&t=IK2BRaHjExCf2LX5xNrBR4ZF7uSC-_CDB94gfh8zBQk",
+          "linkedInUrl": "https://www.linkedin.com/company/9474788/",
+          "linkedInId": "9474788"
+        },
+        {
+          "title": "Data Scientist",
+          "companyName": "AGH University of Science and Technology",
+          "companyLocation": "Kraków, woj. małopolskie, Polska",
+          "description": "Training machine learning models, processing data\n\nTook part in Lemkin project (legal question answering in Polish, lemkin.pl) \n\nPython, PyTorch, Chainer, NLTK, Elasticsearch",
+          "startEndDate": {
+            "start": {
+              "month": 6,
+              "year": 2019
+            },
+            "end": {
+              "month": 7,
+              "year": 2020
+            }
+          },
+          "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQEOr9SlvtLkjw/company-logo_400_400/company-logo_400_400/0/1630467639476/agh_university_of_science_and_technology_logo?e=1756944000&v=beta&t=DceZedYPzjiyFl6EeuVJLzCZc_3pD5b3s0GqRDAVKLQ",
+          "linkedInUrl": "https://www.linkedin.com/company/9991/",
+          "linkedInId": "9991"
+        },
+        {
+          "title": "Software Engineer, NLP Engineer",
+          "companyName": "AGH University of Science and Technology",
+          "description": "* CHATBOT for a commercial client\nData processing: Python\nProduction application: Java, Grails, Groovy, Gradle, Angular2, ElasticSearch\n\n* Media processing system\nC#, ASP.NET MVC, AngularJS, CoffeeScript, MS SQL, Entity Framework, Solr, MongoDB, Git, JIRA, Confluence",
+          "startEndDate": {
+            "start": {
+              "month": 10,
+              "year": 2015
+            },
+            "end": {
+              "month": 10,
+              "year": 2017
+            }
+          },
+          "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQEOr9SlvtLkjw/company-logo_400_400/company-logo_400_400/0/1630467639476/agh_university_of_science_and_technology_logo?e=1756944000&v=beta&t=DceZedYPzjiyFl6EeuVJLzCZc_3pD5b3s0GqRDAVKLQ",
+          "linkedInUrl": "https://www.linkedin.com/company/9991/",
+          "linkedInId": "9991"
+        },
+        {
+          "title": "Software Engineer, NLP Engineer",
+          "companyName": "ICM Warsaw University",
+          "companyLocation": "Warszawa, woj. mazowieckie, Polska",
+          "description": "Collaborator in Applied Data Analysis Lab (adalab.icm.edu.pl)\n\nText mining, information extraction and data visualization for Polish legal texts\n\nwww.saos.org.pl\nRepository of my code: github.com/CeON/saos-tm.extractor\n\nClojure, Python, Java, Git",
+          "startEndDate": {
+            "start": {
+              "month": 4,
+              "year": 2014
+            },
+            "end": {
+              "month": 4,
+              "year": 2015
+            }
+          },
+          "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQEurRfnOIGRdg/company-logo_400_400/company-logo_400_400/0/1630649753187/icm_warsaw_university_logo?e=1756944000&v=beta&t=qUU1eR7Gsh72BT2ZCaU6PJUiydFZnXdbK0qpgnBRWCw",
+          "linkedInUrl": "https://www.linkedin.com/company/63474/",
+          "linkedInId": "63474"
+        },
+        {
+          "title": "Internship",
+          "companyName": "Cybercom Poland",
+          "description": "Silverlight",
+          "startEndDate": {
+            "start": {
+              "month": 9,
+              "year": 2013
+            },
+            "end": {
+              "month": 10,
+              "year": 2013
+            }
+          },
+          "companyLogo": null,
+          "linkedInUrl": "https://www.linkedin.com/search/results/all/?keywords=Cybercom+Poland"
+        },
+        {
+          "title": "Junior Software Developer",
+          "companyName": "ASEC S.A.",
+          "description": "C# .NET WPF",
+          "startEndDate": {
+            "start": {
+              "month": 8,
+              "year": 2012
+            },
+            "end": {
+              "month": 12,
+              "year": 2012
+            }
+          },
+          "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQFvxFcOPRS_OA/company-logo_400_400/company-logo_400_400/0/1631324136682?e=1756944000&v=beta&t=YNi58hPEDS6co_-9y_RxX2UCSIO6WF9Fd4pIHJTMh50",
+          "linkedInUrl": "https://www.linkedin.com/company/2258181/",
+          "linkedInId": "2258181"
+        }
+      ]
+    },
+    "schools": {
+      "educationsCount": 3,
+      "educationHistory": [
+        {
+          "degreeName": "Doctor of Philosophy - PhD",
+          "fieldOfStudy": "Computer Science",
+          "description": "Research topic:\nTextual data augmentation for neural networks\nMy papers: https://scholar.google.com/citations?user=tyygNQEAAAAJ&hl=en\n\nCompleted a course on deep learning\nLead a course for students in object-oriented design",
+          "linkedInUrl": "https://www.linkedin.com/company/9991/",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQEOr9SlvtLkjw/company-logo_400_400/company-logo_400_400/0/1630467639476/agh_university_of_science_and_technology_logo?e=1756944000&v=beta&t=DceZedYPzjiyFl6EeuVJLzCZc_3pD5b3s0GqRDAVKLQ",
+          "schoolName": "AGH University of Krakow",
+          "startEndDate": {
+            "start": {
+              "month": 1,
+              "year": 2015
+            },
+            "end": {
+              "month": 9,
+              "year": 2024
+            }
+          }
+        },
+        {
+          "degreeName": "Master's degree",
+          "fieldOfStudy": "Computer Science",
+          "description": "Thesis topic:\nAnalysis of Polish legal texts using text mining and machine learning\n\nSubjects: machine learning, data mining, neural networks\n\nGPA: 4.15/5\nEnd of studies: 5/5",
+          "linkedInUrl": "https://www.linkedin.com/company/8295/",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQHLwTeF6fzkOw/company-logo_400_400/company-logo_400_400/0/1698220716741/warsaw_university_of_technology_logo?e=1756944000&v=beta&t=aVDYpXhdNjh6A9ndLBF_yhr5NO1L7NggybJQnMN6ki4",
+          "schoolName": "Warsaw University of Technology",
+          "startEndDate": {
+            "start": {
+              "month": 1,
+              "year": 2013
+            },
+            "end": {
+              "month": 1,
+              "year": 2015
+            }
+          }
+        },
+        {
+          "degreeName": "Engineer's degree",
+          "fieldOfStudy": "Control Engineering and Robotics",
+          "description": "Thesis topic:\nPart of speech tagging for Polish language using hidden Markov model\n\nGPA: 4.38/5\nEnd of studies: 4.5/5",
+          "linkedInUrl": "https://www.linkedin.com/company/9991/",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQEOr9SlvtLkjw/company-logo_400_400/company-logo_400_400/0/1630467639476/agh_university_of_science_and_technology_logo?e=1756944000&v=beta&t=DceZedYPzjiyFl6EeuVJLzCZc_3pD5b3s0GqRDAVKLQ",
+          "schoolName": "AGH University of Krakow",
+          "startEndDate": {
+            "start": {
+              "month": 1,
+              "year": 2009
+            },
+            "end": {
+              "month": 1,
+              "year": 2013
+            }
+          }
+        }
+      ]
+    },
+    "skills": [
+      "Neo4j",
+      "Apache Spark",
+      "PyTorch",
+      "Amazon Bedrock",
+      "Azure Databricks",
+      "SQL",
+      "ChatGPT",
+      "GPT-3",
+      "GPT-4",
+      "Large Language Models (LLM)",
+      "Elasticsearch",
+      "MLOps",
+      "MLflow",
+      "spaCy",
+      "Transformers",
+      "TensorFlow",
+      "Computer Vision",
+      "Deep Learning",
+      "Natural Language Processing",
+      "Python",
+      "Software Development",
+      "Machine Learning",
+      "Web Development",
+      "Unit Testing",
+      "Algorithms",
+      "Data Mining",
+      "Git",
+      "Java",
+      "C#",
+      "Linux",
+      "C++",
+      "XML",
+      ".NET",
+      "Visual Studio",
+      "WPF",
+      "C",
+      "Matlab",
+      "Eclipse",
+      "JUnit",
+      "Usługi internetowe Amazon (AWS)"
+    ],
+    "languages": [
+      "angielski",
+      "hiszpański",
+      "niemiecki",
+      "polski"
+    ],
+    "languagesWithProficiency": [
+      {
+        "language": "angielski",
+        "proficiency": "Professional working proficiency"
+      },
+      {
+        "language": "hiszpański",
+        "proficiency": "Elementary proficiency"
+      },
+      {
+        "language": "niemiecki",
+        "proficiency": "Limited working proficiency"
+      },
+      {
+        "language": "polski",
+        "proficiency": "Native or bilingual proficiency"
+      }
+    ],
+    "recommendations": {
+      "recommendationsCount": 0,
+      "recommendationHistory": []
+    },
+    "certifications": {
+      "certificationsCount": 2,
+      "certificationHistory": [
+        {
+          "name": "The Complete SQL Bootcamp 2022: Go from Zero to Hero",
+          "organizationName": "Udemy",
+          "organizationUrl": "https://www.linkedin.com/company/822535/",
+          "issuedDate": "Issued Nov 2022"
+        },
+        {
+          "name": "Certificate in Advanced English",
+          "organizationName": "Cambridge English Language Assessment",
+          "organizationUrl": null,
+          "issuedDate": null
+        }
+      ]
+    },
+    "testScores": {
+      "testScoresCount": 0,
+      "testScoreHistory": []
+    },
+    "volunteeringExperiences": {
+      "volunteeringExperiencesCount": 0,
+      "volunteeringExperienceHistory": []
+    },
+    "interests": {
+      "topVoices": [
+        {
+          "publicIdentifier": "kozyrkov",
+          "linkedinIdentifier": "ACoAAAGgwQ8BQtrd2DWgF9p17g_qyzt7zSA0kzU",
+          "firstName": "Cassie",
+          "lastName": "Kozyrkov",
+          "followersCount": 653019
+        },
+        {
+          "publicIdentifier": "andrewyng",
+          "linkedinIdentifier": "ACoAAAqBL5gBXJ8MGhQh-qHYyxAOW-DYlHM3VLg",
+          "firstName": "Andrew",
+          "lastName": "Ng",
+          "followersCount": 2150394
+        }
+      ],
+      "companies": [
+        {
+          "linkedinIdentifier": "27653",
+          "name": "Exadel",
+          "url": "https://www.linkedin.com/company/exadel/",
+          "slug": "exadel",
+          "followerCount": 103608
+        },
+        {
+          "linkedinIdentifier": "163100",
+          "name": "Clariant",
+          "url": "https://www.linkedin.com/company/clariant/",
+          "slug": "clariant",
+          "followerCount": 376243
+        }
+      ]
+    }
+  },
+  "company": {
+    "linkedInId": "27653",
+    "name": "Exadel",
+    "universalName": "exadel",
+    "linkedInUrl": "https://www.linkedin.com/company/27653",
+    "employeeCount": 1808,
+    "followerCount": 103608,
+    "employeeCountRange": {
+      "start": 1001,
+      "end": 5000
+    },
+    "websiteUrl": "https://www.exadel.com/",
+    "tagline": "Become a digital leader in your industry.",
+    "description": "Exadel is a leading global software consulting and development company that looks beyond the code to maximize the technology-driven business impact our partners want to make. \n\nFor over 25 years, we've helped enterprise companies transform their businesses with technology. Our team of 2,000+ experts across 30+ delivery centers in 17 countries helps clients reinvent the way they do business with end-to-end software consulting, design, engineering, and managed services. \n\nWe've successfully delivered 3,500+ software projects, and with an overall client satisfaction score of 9 out of 10, it's clear that we're obsessed with quality service and code.",
+    "industry": "Software Development",
+    "phone": null,
+    "specialities": [
+      "Strategy and Technology Consulting",
+      "Data Insights and AI",
+      "Digital Experience",
+      "Digital Products and Platforms",
+      "Managed Services",
+      "Generative AI",
+      "AI Applications",
+      "Customer Experience",
+      "Marketing Technology",
+      "Regulatory Alignment",
+      "Cloud Native",
+      "DevOps",
+      "Banking, Capital Markets and Asset Management",
+      "Communication, Media, and Business Services",
+      "E-Commerce and Retail",
+      "High Growth Startups",
+      "Software and High Tech",
+      "Software Deveopment",
+      "AI and Data Management"
+    ],
+    "headquarter": {
+      "city": "Walnut Creek",
+      "country": "US",
+      "postalCode": "94597",
+      "geographicArea": "California",
+      "street1": "1255 Treat Blvd",
+      "street2": "Suite 300"
+    },
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEyuAesmFwWPA/company-logo_400_400/company-logo_400_400/0/1704999546975/exadel_logo?e=1756944000&v=beta&t=Ztjj7C9UbbjPvSdAv6gyFa4t5JMQ2YsCqTHD-bIMJgg",
+    "foundedOn": {
+      "year": 1998
+    },
+    "fundingData": null,
+    "backgroundUrl": "https://media.licdn.com/dms/image/v2/D4D1BAQFAvbHCGyHI1w/company-background_10000/company-background_10000/0/1704999928232/exadel_cover?e=1754406000&v=beta&t=VlLF-Rj60ymhEurM9yVuL--j8dmLuhbvbrQcmn0KCHc"
+  }
+}
