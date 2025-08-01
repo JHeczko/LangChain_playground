@@ -10,7 +10,7 @@ def scrape_linkedin(linked_url_profile: str, mock: bool = False):
 
     if mock:
 
-        file_with_example = open("./example.json")
+        file_with_example = open("/Users/wrex/Documents/Projects/LangChain_playground/person_summary/scraping_tools/example.json")
         scraped_linked_info = json.load(file_with_example)["person"]
 
     else:
