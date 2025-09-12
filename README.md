@@ -9,3 +9,6 @@ Simple langchain start program
 
 1. Scraping is based on `Scrapin` API
 2. Searching for the linkedin profile URL is based on Agent that is responsible for
+
+## `agent_from_scratch`
+> Implementation of ReAct AI agents based on google Gemini
